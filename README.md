@@ -2,7 +2,12 @@
 
 ## Whats in it.
 
-It is just a Laravel 6.2 Project with Google Drive File System integrated.
+It is a Laravel 6.2 Project with Google Drive File System integrated. With that, it is configured to auto-backup to respective local disk and Google Drive folder provided via .env.
+
+## Who's behind the integration
+
+The changes made to the Laravel for the implementing Auto-Backup is done by [Adnan Hussain Turki](https://github.com/AdnanHussainTurki) and brought to you by [myPHPnotes.com](https://myphpnotes.com?ref=github)
+
 
 ## Security Vulnerabilities
 
